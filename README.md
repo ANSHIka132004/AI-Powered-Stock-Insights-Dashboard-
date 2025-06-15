@@ -1,3 +1,8 @@
+![Screenshot 2025-06-13 172356](https://github.com/user-attachments/assets/feb85e59-9d65-4af3-b639-ff018d15c06e)
+![Screenshot 2025-06-13 172418](https://github.com/user-attachments/assets/8702649c-7653-491e-a732-a596a5410b15)
+![Screenshot 2025-06-13 173859](https://github.com/user-attachments/assets/de89279c-2ce2-452f-a329-cf97cd034ca4)
+![Screenshot 2025-06-13 173943](https://github.com/user-attachments/assets/a29ba650-fa81-4487-853f-9d67079c4a2c)
+![Screenshot 2025-06-13 203124](https://github.com/user-attachments/assets/49ffd883-6228-45d9-9639-7a3cba043327)
 # AI-Powered-Stock-Insights-Dashboard
 # Core Technologies
 
